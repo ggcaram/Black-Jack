@@ -9,7 +9,9 @@ Tecnologias: HTML, CSS y Javascript
 
 Funcionalidades:
 -Extraccion de 2 cartas aleatorias
+
 -Extraccion de carta extra manualmente
+
 -Cierres: continua el juego, o finaliza con blackjack/derrota
 
 Practica de:
