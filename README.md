@@ -11,6 +11,9 @@ _Juego de Black Jack (o 21) con js_
 
 _Bajar los 3 archivos individuales y la carpet de logo, y cargar en un Ide_
 
+_O ingresar a la siguiente url_ https://codepen.io/ggcaram/pen/KKWLxEr 
+Nota: como CodePen no permite imagenes en carpetas tuve que agregar un gradiente.
+
 
 ## Funcionalidades ⚙️
 
